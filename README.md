@@ -1,6 +1,6 @@
 # Multi-step Form Challenge - Frontend Mentor
 
-I've embarked on the [Multi-step Form Challenge from Frontend Mentor](https://www.frontendmentor.io/challenges/multi-step-form-YVAnSdqQBJ), driven by a curiosity to explore and master various approaches to a seemingly simple problem. This project is more than just coding a form; it's about refining the craft, optimizing data structures, enhancing design, and writing clean, maintainable code. I aim to approach this familiar problem from new angles, pushing towards what I consider perfection in form development.
+I've embarked on the [Multi-step Form Challenge from Frontend Mentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ), driven by a curiosity to explore and master various approaches to a seemingly simple problem. This project is more than just coding a form; it's about refining the craft, optimizing data structures, enhancing design, and writing clean, maintainable code. I aim to approach this familiar problem from new angles, pushing towards what I consider perfection in form development.
 
 ## 🚀 Challenge Overview
 
